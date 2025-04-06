@@ -1,0 +1,3 @@
+[submodule "bastl-vcv"]
+	path = bastl-vcv
+	url = https://github.com/Ericxgao/bastl-vcv

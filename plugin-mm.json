@@ -1,0 +1,28 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-cella",
+    "MetaModuleDescription": "Seaside Modular ported for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "Resonators",
+            "name": "Resonators"
+        },
+        {
+            "slug": "TwinPeaks",
+            "name": "Twin Peaks"
+        },
+        {
+            "slug": "Euler",
+            "name": "Euler"
+        },
+        {
+            "slug": "Rich",
+            "name": "Rich"
+        },
+        {
+            "slug": "Bezier",
+            "name": "Bezier"
+        }
+    ]
+}
